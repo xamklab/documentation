@@ -4,6 +4,8 @@
 .. role:: raw-html(raw)
    :format: html
 
+A cheat sheet for commands related to Cisco switches and routers.
+
 :raw-html:`<details><summary>Terminology</summary>`
 
 - Placeholders are indicated between less-than and greater-than symbols (e.g. :bash:`<subnet mask>`).
